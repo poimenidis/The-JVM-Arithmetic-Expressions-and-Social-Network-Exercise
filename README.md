@@ -3,4 +3,4 @@ This is two different exercises in prolog. I use lists and their methods (setof(
 
 Here is the Questions in Greek:
 
-
+[pdf] https://github.com/poimenidis/The-JVM-Arithmetic-Expressions-and-Social-Network-Exercise/blob/master/Coursework1.pdf [pdf]
